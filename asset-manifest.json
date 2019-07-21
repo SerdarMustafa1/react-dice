@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SerdarMustafa1/react-dice.git/static/css/main.0f253e56.chunk.css",
-    "main.js": "/SerdarMustafa1/react-dice.git/static/js/main.55a40b28.chunk.js",
-    "main.js.map": "/SerdarMustafa1/react-dice.git/static/js/main.55a40b28.chunk.js.map",
-    "runtime~main.js": "/SerdarMustafa1/react-dice.git/static/js/runtime~main.e8894d75.js",
-    "runtime~main.js.map": "/SerdarMustafa1/react-dice.git/static/js/runtime~main.e8894d75.js.map",
-    "static/js/2.2668f2aa.chunk.js": "/SerdarMustafa1/react-dice.git/static/js/2.2668f2aa.chunk.js",
-    "static/js/2.2668f2aa.chunk.js.map": "/SerdarMustafa1/react-dice.git/static/js/2.2668f2aa.chunk.js.map",
-    "index.html": "/SerdarMustafa1/react-dice.git/index.html",
-    "precache-manifest.8a5ae81bf6d2cc17a2c42a83704b0954.js": "/SerdarMustafa1/react-dice.git/precache-manifest.8a5ae81bf6d2cc17a2c42a83704b0954.js",
-    "service-worker.js": "/SerdarMustafa1/react-dice.git/service-worker.js",
-    "static/css/main.0f253e56.chunk.css.map": "/SerdarMustafa1/react-dice.git/static/css/main.0f253e56.chunk.css.map"
+    "main.css": "/react-dice/static/css/main.0f253e56.chunk.css",
+    "main.js": "/react-dice/static/js/main.6c4cb3da.chunk.js",
+    "main.js.map": "/react-dice/static/js/main.6c4cb3da.chunk.js.map",
+    "runtime~main.js": "/react-dice/static/js/runtime~main.9b5673c1.js",
+    "runtime~main.js.map": "/react-dice/static/js/runtime~main.9b5673c1.js.map",
+    "static/js/2.2668f2aa.chunk.js": "/react-dice/static/js/2.2668f2aa.chunk.js",
+    "static/js/2.2668f2aa.chunk.js.map": "/react-dice/static/js/2.2668f2aa.chunk.js.map",
+    "index.html": "/react-dice/index.html",
+    "precache-manifest.2faeae0cd3490610707d0cb13c15735a.js": "/react-dice/precache-manifest.2faeae0cd3490610707d0cb13c15735a.js",
+    "service-worker.js": "/react-dice/service-worker.js",
+    "static/css/main.0f253e56.chunk.css.map": "/react-dice/static/css/main.0f253e56.chunk.css.map"
   }
 }
